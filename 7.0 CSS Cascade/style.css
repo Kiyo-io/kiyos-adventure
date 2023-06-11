@@ -9,6 +9,7 @@ p {
   color: yellow;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
 }
 .white-text {
   color: white;
@@ -23,3 +24,6 @@ p {
 #outer-box {
   border: 10px solid purple;
 }
+=======
+}
+>>>>>>> 85ec1f9 (commit)
