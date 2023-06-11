@@ -7,3 +7,7 @@ h2 {
 div > p {
   color: firebrick;
 }
+
+.box ul {
+  color: blue;
+}
