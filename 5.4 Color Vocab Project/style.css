@@ -18,7 +18,14 @@
   color: yellow;
 }
 
-img[alt="red"] {
+/* More efficent method of CSS */
+img {
+  height: 200px;
+  width: 200px;
+}
+
+/* Perfect for applying specific styles using different attributes */
+/* img[alt="red"] {
   height: 200;
   width: 200px;
 }
@@ -37,7 +44,7 @@ img[alt="green"] {
 img[alt="yellow"] {
   height: 200px;
   width: 200px;
-}
+} */
 
 .color-title {
   font-weight: normal;
